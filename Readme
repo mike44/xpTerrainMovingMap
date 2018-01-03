@@ -1,0 +1,7 @@
+Terrain for X-Plane's Moving Map.
+
+Many thanks to Jonathan (Marginal at xplane.org forums).
+
+The code is based on X-Plane's SDK Terrain probing and OpenGL framebuffer:
+http://www.xsquawkbox.net/xpsdk/mediawiki/Category:XPLMScenery
+
